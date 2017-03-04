@@ -2,10 +2,10 @@ from setuptools import setup
 
 setup(
     name='grcpass',
-    version='1.0.0',
+    version='1.0.1',
     description='Simple script which scrapes off password from www.grc.com/passwords.htm',
     url='https://github.com/arturtamborski/grcpass',
-    download_url='https://github.com/arturtamborski/grcpass/archive/1.0.0.tar.gz',
+    download_url='https://github.com/arturtamborski/grcpass/archive/1.0.1.tar.gz',
     keywords='password generator',
     classifiers=[
         'Development Status :: 4 - Beta',
