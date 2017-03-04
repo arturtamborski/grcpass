@@ -7,7 +7,7 @@ setup(
     url='http://github.com/arturtamborski/grcpass',
     keywords='password generator',
     classifiers=[
-        'Development Status :: 5 Production/Stable',
+        'Development Status :: 5 - Production/Stable',
         'Environment :: Console',
         'Intended Audience :: System Administrators',
         'License :: OSI Approved :: MIT License',
