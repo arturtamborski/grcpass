@@ -7,6 +7,13 @@ Description
 This little script scrapes out passwords from
 http://grc.com/passwords.htm and returns them in named tuple.
 
+Installation
+------------
+
+.. code:: shell
+
+    pip install grcpass
+
 Usage
 -----
 
